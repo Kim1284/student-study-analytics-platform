@@ -25,15 +25,15 @@ School counselors had no simple way to see how much students were actually study
 ## Screenshots
 
 ### School Dashboard
-![School Dashboard](screenshots/dashboard.png)
+![School Dashboard](screenshots/dashboard.png.png)
 
 
 ### Students
-![Students](screenshots/students.png)
+![Students](screenshots/students.png.png)
 
 
 ### Reports
-![Reports](screenshots/reports.png)
+![Reports](screenshots/reports.png.png)
 
 ## Tech Stack
 
